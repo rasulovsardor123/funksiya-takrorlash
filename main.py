@@ -12,4 +12,4 @@
 #     print(result)
 # kupaytma(2,2,2)
 
-cd desktop
+salmo
